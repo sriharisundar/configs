@@ -1,0 +1,6 @@
+[submodule "kickstart.nvim"]
+	path = kickstart.nvim
+	url = git@github.com:sriharisundar/kickstart.nvim.git
+[submodule "iterm"]
+	path = dracula_iterm
+	url = https://github.com/dracula/iterm.git
