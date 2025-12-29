@@ -1,0 +1,16 @@
+abbr -a -- vi nvim
+abbr -a -- lhs 'ls -lhts'
+abbr -a -- lht 'ls -lhtr'
+abbr -a -- ll 'ls -lG'
+abbr -a -- ls 'ls -G'
+abbr -a -- lsall 'ls -Ga' # Show hidden files
+abbr -a -- gs 'git status'
+abbr -a -- gd 'git diff'
+abbr -a -- gcm 'git commit -m'
+abbr -a -- gps 'git push'
+abbr -a -- gpl 'git pull'
+abbr -a -- gco 'git checkout'
+abbr -a -- gb 'git branch'
+abbr -a -- notes 'nvim $HOME/notes/'
+abbr -a -- biopt_dev 'cd $HOME/codes/biopt_dev'
+abbr -a -- pras_dev 'cd $HOME/codes/PRAS_dev/'
