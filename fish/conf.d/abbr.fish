@@ -5,6 +5,7 @@ abbr -a -- ll 'ls -lG'
 abbr -a -- ls 'ls -G'
 abbr -a -- lsall 'ls -Ga' # Show hidden files
 abbr -a -- gs 'git status'
+abbr -a -- ga 'git add'
 abbr -a -- gd 'git diff'
 abbr -a -- gcm 'git commit -m'
 abbr -a -- gps 'git push'
